@@ -129,7 +129,7 @@
       <dependency>
         <groupId>com.google.code.gson</groupId>
         <artifactId>gson</artifactId>
-        <version>2.8.5</version>
+        <version>2.8.9</version>
         <!-- TODO: consider replacing usage with https://github.com/square/moshi; or maybe remove from DM unsure where this is used -->
       </dependency>
 
